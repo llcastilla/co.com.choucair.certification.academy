@@ -1,0 +1,4 @@
+co/com/salesforce/certification/stepdefinitions/SalesForceStepDefintions.java
+ co.com.salesforce.certification.stepdefinitions.SalesForceStepDefintions
+co/com/salesforce/certification/runners/RunnerTags.java
+ co.com.salesforce.certification.runners.RunnerTags
