@@ -1,7 +1,5 @@
 @stories
-Feature: Academy Choucair
-  As a user, I want to learn how to automate in screamplay at the Choucair Academy with the automation course
-
+Feature: sales force
   @scenario1
   Scenario Outline: Scenario: Probar el login de SalesForce
     Given that leonardo wants to test the SalesForce login
